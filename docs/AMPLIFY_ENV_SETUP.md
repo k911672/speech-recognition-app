@@ -9,7 +9,7 @@
 | `VITE_AWS_REGION` | AWSリージョン | `ap-northeast-1` |
 | `VITE_AWS_ACCESS_KEY_ID` | AWSアクセスキーID | `AKIA...` |
 | `VITE_AWS_SECRET_ACCESS_KEY` | AWSシークレットアクセスキー | `xxxxx...` |
-| `VITE_APP_NAME` | アプリ名（任意） | `React Chime CDK` |
+| `VITE_APP_NAME` | アプリ名（任意） | `Speech Recognition App` |
 | `VITE_VERSION` | バージョン（任意） | `1.0.0` |
 
 ---
