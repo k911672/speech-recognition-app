@@ -1,0 +1,14 @@
+export const TRANSLATION_CONFIG = {
+  DEFAULT_CONFIDENCE: 0.9,
+  CACHE_SIZE: 1000,
+  SOURCE_LANGUAGE_AUTO: 'auto',
+  TARGET_LANGUAGE: 'en',
+  SOURCE_LANGUAGE_JA: 'ja',
+};
+
+
+export const TRANSLATION_ERROR_MESSAGES = {
+  FAILED: '翻訳に失敗しました',
+  EMPTY_TEXT_ERROR: '翻訳するテキストが空です',
+};
+
